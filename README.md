@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nischal119
 - 👀 I’m interested in python html css php
-- 🌱 I’m currently learning css 
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me dhungelnischal7@gmail.com
 
