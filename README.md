@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nimesh Regmi and I'm a web and app developer, from Kathmandu,Nepal</h2>
+<h2 align="left">Hi 👋! My name is Nischal Dhungel and I'm a full stack web and app developer, from Kathmandu,Nepal</h2>
 
 ###
 
